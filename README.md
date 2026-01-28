@@ -11,7 +11,7 @@ Based on guidelines by the Indian Institute of Technology Jodhpur (IIT Jodhpur)
 % LaTeX Template
 % Based on guidelines by the Indian Institute of Technology Jodhpur (IIT Jodhpur)
 
-$$$$ You can download it from: https://drive.google.com/drive/folders/1GjbXjUMVwFtFLKAghyEVsk3i_B0r83X-?usp=sharing   $$$$$$$$$$$$
+$$$$ You can download this same temeplate from: https://drive.google.com/drive/folders/1GjbXjUMVwFtFLKAghyEVsk3i_B0r83X-?usp=sharing   $$$$$$$$$$$$
 
 
 %
